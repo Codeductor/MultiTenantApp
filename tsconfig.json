@@ -1,0 +1,4 @@
+// DO NOT EDIT!!!!
+// built using `tsconfig.js` (https://www.npmjs.com/package/tsconfig.js)
+// source file: /Users/brentscarafone/Work/Codeductor/blog-posts/multi-tenant-white-label-react-native-no-expo/MultiTenantApp/tsconfig.js
+{"extends":"@react-native/typescript-config/tsconfig.json","compilerOptions":{"baseUrl":"./","paths":{"*":["./tenants/codeductor/src/*","./tenants/codeductor/*","./tenants/default/src/*","./tenants/default/*","./src/*"]}},"include":["src/**/*"]}
